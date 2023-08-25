@@ -1,4 +1,4 @@
-<h1 align = center> Hi there 👋 </h1>
+<h1 align = center> Hello there, I'm abdelrhman and i'm backend devoloper 👋 </h1>
 <hr style=" width = 50%;">
 <!--
 **Dinamow/Dinamow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
