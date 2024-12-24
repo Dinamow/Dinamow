@@ -12,4 +12,4 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinamow&theme=dark&hide_border=false" /> 
 
   
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinamow&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dinamow" />
+ <img align="left" src="https://wakatime.com/share/@DINAMOW/c9bb406f-c924-465e-861a-6087fb675514.svg" width="500" alt="Dinamow" />
